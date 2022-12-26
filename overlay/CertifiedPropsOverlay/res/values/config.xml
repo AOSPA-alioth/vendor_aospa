@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 Paranoid Android
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Build properties from a GMS certified device against current platform SPL level -->
+    <string-array name="config_certifiedBuildProperties" translatable="false">
+        <item>PRODUCT:bullhead</item>
+        <item>DEVICE:bullhead</item>
+        <item>MODEL:Nexus 5X</item>
+        <item>FINGERPRINT:google/bullhead/bullhead:8.0.0/OPR6.170623.013/4283548:user/release-keys</item>
+    </string-array>
+</resources>
